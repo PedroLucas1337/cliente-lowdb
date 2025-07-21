@@ -31,14 +31,3 @@ Criado por Pedro Lucas
 
 
 3. Salve o arquivo.
-
----
-
-## Commitando o README e enviando para o GitHub
-
-No terminal, rode:
-
-```bash
-git add README.md
-git commit -m "Adiciona README.md básico"
-git push
